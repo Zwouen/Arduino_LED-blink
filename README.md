@@ -13,7 +13,7 @@ The LED stays on for 0.5 s, then off for 0.5 s, in a loop.
 
 ## Wiring
 
-![Wiring diagram](schematic.png)
+![Wiring diagram](Schematic.png)
 
 Pin 6 → resistor → LED long leg (+)
 LED short leg (-) → GND

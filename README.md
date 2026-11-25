@@ -32,3 +32,5 @@ In the Arduino IDE, change the value inside `delay()` (in milliseconds), then up
 - Second `delay()`: time the LED stays off.
 
 Example: `delay(1000);` = 1 second.
+
+*Marshawey was here*

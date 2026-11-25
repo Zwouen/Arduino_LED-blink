@@ -9,6 +9,7 @@ The LED stays on for 0.5 s, then off for 0.5 s, in a loop.
 - 1 LED
 - 1 resistor (220 Ω)
 - Breadboard and jumper wires
+- 2x Wire male-male
 
 ## Wiring
 
